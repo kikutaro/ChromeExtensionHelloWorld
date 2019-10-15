@@ -1,0 +1,9 @@
+{
+    "name": "ChromeExtensionHelloWorld",
+    "version": "1.0",
+    "description": "Hello World Sample of ChromeExtension.",
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "manifest_version": 2
+}
